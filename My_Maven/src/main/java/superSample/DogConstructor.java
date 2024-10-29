@@ -8,8 +8,9 @@ public class DogConstructor extends AnimalConstructor {
 	}
 
 	public static void main(String[] args) {
-		DogConstructor obj=new DogConstructor();
+		//AnimalConstructor obj=new AnimalConstructor();
 		// TODO Auto-generated method stub
+		DogConstructor obj1=new DogConstructor();
 
 	}
 
